@@ -1,0 +1,8 @@
+# Exercism
+
+**/.exercism/
+
+# C++
+
+cpp/**/build/
+cpp/**/test/CMake*
